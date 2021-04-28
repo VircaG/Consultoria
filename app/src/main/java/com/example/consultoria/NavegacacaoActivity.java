@@ -64,8 +64,12 @@ public class NavegacacaoActivity extends AppCompatActivity {
             intent.putExtra(Intent.EXTRA_TEXT,"Mensagem automática");
 
             intent.setType("mensagem/rfc822");
+           // intent.setType("text/plain");
+            // intent.setType("image/*");
+           // intent.setType("application/pdf");
 
-            startActivity(Intent.createChooser(intent,"Compartilhar"));
+
+            startActivity(Intent.createChooser(intent,"Escolha um app de email"));
         }
 
 
