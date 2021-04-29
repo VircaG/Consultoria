@@ -25,5 +25,11 @@
         android:name="com.example.consultoria.ui.contato.ContatoFragment"
         android:label="@string/menu_contato"
         tools:layout="@layout/fragment_contato" />
+    <fragment
+        android:id="@+id/nav_sobre"
+        android:name="com.example.consultoria.ui.sobre.SobreFragment"
+        android:label="@string/menu_sobre"
+        tools:layout="@layout/fragment_sobre" />
+
 
 </navigation>
