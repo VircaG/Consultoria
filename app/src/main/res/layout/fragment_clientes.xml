@@ -40,8 +40,8 @@
             android:layout_marginLeft="16dp"
             android:layout_marginTop="16dp"
             android:layout_marginRight="16dp"
-            android:drawableLeft="@drawable/ic_seta_servico_24"
-            android:text="Natura"
+            android:drawableLeft="@drawable/ic_menu_servico_24"
+            android:text=".Natura"
             android:textColor="#FF000000"
             android:textSize="18sp" />
 
@@ -53,7 +53,7 @@
             android:layout_marginTop="8dp"
             android:layout_marginRight="16dp"
             android:drawableLeft="@drawable/ic_seta_servico_24"
-            android:text="Cielo"
+            android:text=".Cielo"
             android:textColor="#FF000000"
             android:textSize="18sp" />
 
@@ -65,7 +65,7 @@
             android:layout_marginTop="8dp"
             android:layout_marginRight="16dp"
             android:drawableLeft="@drawable/ic_seta_servico_24"
-            android:text="Everis"
+            android:text=".Everis"
             android:textColor="#FF000000"
             android:textSize="18sp" />
 
@@ -77,7 +77,7 @@
             android:layout_marginTop="8dp"
             android:layout_marginRight="16dp"
             android:drawableLeft="@drawable/ic_seta_servico_24"
-            android:text="Altran"
+            android:text=".Altran"
             android:textColor="#FF000000"
             android:textSize="18sp" />
 
@@ -89,7 +89,7 @@
             android:layout_marginTop="8dp"
             android:layout_marginRight="16dp"
             android:drawableLeft="@drawable/ic_seta_servico_24"
-            android:text="Acceture"
+            android:text=".Accenture"
             android:textColor="#FF000000"
             android:textSize="18sp" />
 
@@ -101,7 +101,7 @@
             android:layout_marginTop="8dp"
             android:layout_marginRight="16dp"
             android:drawableLeft="@drawable/ic_seta_servico_24"
-            android:text="Nova Base"
+            android:text=".Nova Base"
             android:textColor="#FF000000"
             android:textSize="18sp" />
     </LinearLayout>
